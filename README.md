@@ -4,18 +4,18 @@ A small PCB design to be used with Borti4938's switchless overclock code for Nin
 
 ![My Image](N64-Overclock-Main.png)
 
-# Version History
+## Version History
 
-## Basic
+### Basic
 
 - v1.0 - 11/01/2025 - Incorrect measurements. Unusable.
 - v1.1 - 24/01/2025 - PCB is good, although it still says v1 on the underside.
 
-# With LED
+### With LED
 
 - v1.0 - Coming soon.
 
-# Future Work
+## Future Work
 
 Add a protrusion for an LED mount. Coming very soon.
 
