@@ -1,8 +1,12 @@
-### Switchless Overclocking for N64
----
+# Nintendo 64 Switchless Overclock PCB
 
-This is an earlier project and not under development anymore. Documentation is rather simple and can be found in source code comments.
+A small PCB design to be used with Borti4938's switchless overclock code for Nintendo 64.
 
-Please don't write me for any support. Please reach out to community forums and use the knowledge and experiences there.
+# Version History
 
-Best Regards, Peter
+- v1.0 - 11/01/2025 - Incorrect measurements. Unusable.
+- v1.1 - 24/01/2025 - PCB is good, although it still says v1 on the underside.
+
+# Future Work
+
+Add a protrusion for an LED mount. Coming very soon.
